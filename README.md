@@ -10,4 +10,6 @@ AvatarShala aims to build a repository of AI/ML codes.
 <!---
 avatarshala/avatarshala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+A smily nepali looking gender-neutral toddler holographic avatar creating another AI
 --->
